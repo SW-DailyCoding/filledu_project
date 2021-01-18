@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24a8563c-ac3f-495d-8dba-3afb15ebf2f3" name="Default Changelist" comment="" />
+    <list default="true" id="24a8563c-ac3f-495d-8dba-3afb15ebf2f3" name="Default Changelist" comment="add gugudan folder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,8 +73,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610928204054</updated>
-      <workItem from="1610928205122" duration="6097000" />
+      <workItem from="1610928205122" duration="6402000" />
     </task>
+    <task id="LOCAL-00001" summary="add gugudan folder">
+      <created>1610934546630</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1610934546630</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +98,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add gugudan folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="add gugudan folder" />
   </component>
   <component name="WindowStateProjectService">
     <state x="719" y="272" key="#Web_Browsers" timestamp="1610931634538">
